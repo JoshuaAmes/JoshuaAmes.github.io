@@ -1,8 +1,11 @@
 # About Me
-I am a CS student starting my Junior year of University, I have a passion for App Development and Data Science. I am interested in any opportunties that can help me grow as an up and coming software developer. 
+I am a Computer Science student at Boise State University, I am in my Junior year and I will graduate May 2020. I have a passion for App Development and Data Science. I am interested in any opportunties that can help me grow as an up and coming software developer. 
 
 ## Projects
-1. [BTree](https://github.com/JoshuaAmes/CS321-p4-BTree) Done in Java
+1. [Bioinformatics BTree Tool](https://github.com/JoshuaAmes/CS321-p4-BTree) Done in Java
+2. [IP](https://github.com/JoshuaAmes/CS321-p4-BTree) Done in Java
+3. [IP](https://github.com/JoshuaAmes/CS321-p4-BTree) Done in Java
+4. [IP](https://github.com/JoshuaAmes/CS321-p4-BTree) Done in Java
 
 ### Languages & Proficiency
 
