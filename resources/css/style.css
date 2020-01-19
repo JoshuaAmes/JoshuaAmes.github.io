@@ -228,3 +228,8 @@ footer{
 .contact i{
     padding-right: 10px;
 }
+
+#social-links {
+    color:#7da1e5;
+    text-decoration: underline;
+}
